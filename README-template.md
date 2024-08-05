@@ -1,4 +1,4 @@
-# Blog preview card 
+# Blog preview card
 
 ## Table of contents
 
@@ -11,19 +11,16 @@
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
 ## Overview
-
 
 ### Screenshot
 
 ![](./assets/images/Screenshot%202024-08-05%20224753.png)
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Henock-Lite/Blog-Card)
+- Live Site URL: [netlify](https://card-part.netlify.app)
 
 ## My process
 
@@ -34,16 +31,11 @@
 - Flexbox
 - CSS Grid
 
-
-
 ### Useful resources
 
-
-- [Example resource 1](https://caniuse.com/) - This helped me to know if  can I use clamp() propertie 
+- [Example resource 1](https://caniuse.com/) - This helped me to know if can I use clamp() propertie
 
 ## Author
 
 - Github- [H.Lite](https://github.com/Henock-Lite)
 - Frontend Mentor - [@Henock-Lite](https://www.frontendmentor.io/profile/yourusername)
-
-
